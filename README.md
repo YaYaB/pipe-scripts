@@ -27,7 +27,7 @@ optional arguments:
 ```
 
 Please refer to [here](https://github.com/YaYaB/pipe-scripts/examples) for examples.
-A easy to launch an example is the following:
+An easy way to launch an example is the following:
 
 ```sh
 cd examples
