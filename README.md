@@ -48,4 +48,4 @@ YaYaB
 
 Distributed under the Apache license v2.0. See ``LICENSE`` for more information.
 
-[https://github.com/YaYaB/pipe-scripts](https://github.com/YaYaB/pipe-scripts)
+[https://github.com/YaYaB](https://github.com/YaYaB/)
